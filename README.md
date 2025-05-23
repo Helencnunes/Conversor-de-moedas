@@ -82,6 +82,6 @@ A aplicação ainda pode ser melhorada com tratamento de exceções mais complet
 
 ---
 
-Feito com carinho por Helen Estudante
+Feito com carinho por Helen Cristina
 
 Estudando, praticando e evoluindo um pouquinho a cada dia!
